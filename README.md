@@ -1,6 +1,7 @@
 # PedestriaBotOfficial
 ![Latest Release](https://img.shields.io/github/v/release/theopcoder/PedestriaBotOfficial?style=for-the-badge&include_prereleases) 
 ![Discord](https://img.shields.io/badge/Discord-TheMLGDude%232177-green?style=for-the-badge) 
+![GitHub](https://img.shields.io/badge/GitHub-theopcoder%23-green?style=for-the-badge) 
 ![Size](https://img.shields.io/github/repo-size/theopcoder/PedestriaBotOfficial?style=for-the-badge) 
 
 A custom Discord bot for the Pedestria Discord server.  
@@ -8,6 +9,7 @@ A custom Discord bot for the Pedestria Discord server.
 # Information:
 Author: theopcoder  
 Version: 2.3.0   
+BuildID: 2021.06.19.2.3.0  
 Website: https://theopcoder.github.io/PedestriaBotOfficial/  
 
 **Contributors:**
