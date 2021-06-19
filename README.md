@@ -3,7 +3,7 @@
 ![Discord](https://img.shields.io/badge/Discord-TheMLGDude%232177-green?style=for-the-badge) 
 ![GitHub](https://img.shields.io/badge/GitHub-theopcoder-green?style=for-the-badge) 
 ![Size](https://img.shields.io/github/repo-size/theopcoder/PedestriaBotOfficial?style=for-the-badge) 
-[![CodeQL](https://github.com/theopcoder/PedestriaBotOfficial/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/theopcoder/HermitcraftBot/actions/workflows/codeql-analysis yml)  
+![CodeQL](https://github.com/theopcoder/PedestriaBotOfficial/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/theopcoder/HermitcraftBot/actions/workflows/codeql-analysis yml)  
 
 A custom Discord bot for the Pedestria Discord server.  
 
