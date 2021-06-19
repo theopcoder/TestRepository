@@ -1,4 +1,4 @@
-<center><h1> PedestriaBotOfficial </h1></center>
+# PedestriaBotOfficial
 ![Latest Release](https://img.shields.io/github/v/release/theopcoder/PedestriaBotOfficial?style=for-the-badge&include_prereleases) 
 ![Discord](https://img.shields.io/badge/Discord-TheMLGDude%232177-green?style=for-the-badge) 
 ![Size](https://img.shields.io/github/repo-size/PedestriaMC-Network/PedestriapediaOfficial?style=for-the-badge) 
